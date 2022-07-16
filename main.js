@@ -1,7 +1,6 @@
 void int main(){
 system.out.println('this is java main file')
 }
-int add(int a,int b){
-return a+b;
-
+void show(){
+system.out.println("main method is working");
 }
